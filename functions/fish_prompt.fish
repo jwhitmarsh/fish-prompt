@@ -67,5 +67,5 @@ function fish_prompt
         echo -n -s " " $directory_color $cwd $normal_color
     end
 
-    echo -n -s "\n"
+    echo -s "\n"
 end
